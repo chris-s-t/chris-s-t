@@ -60,8 +60,3 @@
 - 🔎 Researching AI Automation and workflow efficiency in **n8n** & **9router**.
 
 <br/>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chris-s-t&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-s-t&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
