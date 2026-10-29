@@ -46,7 +46,7 @@
 <p align="center">
   <img src="./assets/flow.svg" width="100%" alt="RPG Progression Map — Game Dev, Web & Mobile, AI & ML, New Frontiers" />
   <br/>
-  <sub>Always unlocking new skill trees, debugging edge cases, and leveling up in CTF & systems engineering.</sub>
+  <sub>Always unlocking new skill trees, Inovate and Improve Ways.</sub>
 </p>
 
 ---
