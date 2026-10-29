@@ -5,7 +5,7 @@
 <h1 align="center">Christian Surya T. <kbd>@chris-s-t</kbd></h1>
 
 <p align="center">
-  <b>Game Developer · Web Developer · Full-Stack Builder · AI Enthusiast</b><br/>
+  <b>Game Developer · Software Developer · Full-Stack Builder · AI Enthusiast</b><br/>
   <i>"I enjoy exploring new things and implementing them, innovating new ways from old ways for best efficiency."</i>
 </p>
 
